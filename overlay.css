@@ -1,0 +1,28 @@
+body {
+    background-color: white !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 100vh !important;
+    margin: 0 !important;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100vw !important;
+    z-index: 9999 !important;
+}
+
+#logo {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    color: #666;
+}
